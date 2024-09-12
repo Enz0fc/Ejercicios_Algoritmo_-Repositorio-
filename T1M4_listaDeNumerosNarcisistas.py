@@ -40,4 +40,3 @@ def resolverProblemaGeneral():
             contador+=1
         numero+=1
 resolverProblemaGeneral()
-print('Programa finalizado...')
