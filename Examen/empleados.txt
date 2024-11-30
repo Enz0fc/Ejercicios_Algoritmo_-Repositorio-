@@ -1,0 +1,4 @@
+Jose	Colbes	6.300.000gS	FPUNA
+Andrea	Insfran	3.500$	FIUNA
+Juan	Perez	5.000r$	CEMIT
+Maria	Cuevas	100.000PArg	FADA

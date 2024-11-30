@@ -1,0 +1,5 @@
+Nombre	Apellido	Cantidad	Moneda	Dependencia	
+Jose	Colbes	6300000	Guaranies	FPUNA
+Andrea	Insfran	3500	Dolares	FIUNA
+Juan	Perez	5000	Reales	CEMIT
+Maria	Cuevas	100000	Otro	FADA
